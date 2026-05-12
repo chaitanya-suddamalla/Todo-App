@@ -8,29 +8,29 @@ A simple, modern Todo application built with plain HTML, CSS, and JavaScript.
   <tr>
     <td align="center">
       <img src="./Screenshot%202026-05-13%20000814.png" width="400"/><br>
-      <b>Home Page</b>
+      <b>Task Dashboard</b>
     </td>
     <td align="center">
       <img src="./Screenshot%202026-05-13%20000848.png" width="400"/><br>
-      <b>Adding Tasks</b>
+      <b>Create Operation – Adding Tasks</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="./Screenshot%202026-05-13%20001008.png" width="400"/><br>
-      <b>Task Completion</b>
+      <b>Update & Manage Tasks</b>
     </td>
     <td align="center">
       <img src="./Screenshot%202026-05-13%20001159.png" width="400"/><br>
-      <b>Progress Tracking</b>
+      <b>Progress Monitoring System</b>
     </td>
   </tr>
 
   <tr>
     <td align="center" colspan="2">
       <img src="./Screenshot%202026-05-13%20001402.png" width="500"/><br>
-      <b>Confetti Celebration</b>
+      <b>Task Completion Animation</b>
     </td>
   </tr>
 </table>
