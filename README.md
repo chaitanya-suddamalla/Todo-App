@@ -97,6 +97,16 @@ This app supports the core CRUD operations:
 - `style.css` — app styling and layout
 - `app.js` — app logic, task handling, progress updates, and confetti trigger
 
+## 📂 Project Structure
+
+```text
+Todo App/
+├── index.html
+├── style.css
+├── app.js
+└── README.md
+```
+
 ## How to run
 
 1. Open `index.html` in your browser.
